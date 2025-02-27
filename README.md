@@ -1,8 +1,11 @@
-# PROGRAMACION-PARA-CIENCIA-DE-DATOS
+# ANÁLISIS DE ACCIDENTES DE TRÁNSITO EN NUEVA YORK
 
 🚀 Programación para Ciencia de Datos
+
 Guía 3
-🚦 Análisis de Accidentes de Tráfico en Nueva York (2018-2019)
+
+🚦 Análisis de Accidentes de Tránsito en Nueva York (2018-2019)
+
 📝 Descripción del Proyecto
 Descripción del Proyecto Este proyecto analiza el aumento de muertes y lesiones de peatones y ciclistas en la ciudad de Nueva York durante el primer trimestre de 2019 en comparación con el mismo periodo de 2018. Se busca identificar patrones en la concentración de accidentes y sus causas para formular recomendaciones de mejora en la seguridad vial.
 
@@ -23,12 +26,12 @@ Descripción del Proyecto Este proyecto analiza el aumento de muertes y lesiones
 4.	 🚨Evaluar áreas críticas donde los accidentes han aumentado.
 5.	🏗️ Proponer recomendaciones basadas en los hallazgos.
 
-6.	Metodología
+	Metodología
 1.	🛠 Recolección de datos: Se recopilaron informes de tráfico para los primeros trimestres de 2018 y 2019.
 2.	📊 Análisis estadístico:  Se compararon los números de incidentes y sus causas principales.
 3.	🌍 Visualización geoespacial: Se crearon mapas de calor para ambos años.
 4.	🚦 Investigación en áreas críticas: Se identifican factores específicos en los lugares con mayor incremento de accidentes.
-5.	
+   
 Hallazgos
 •	📉 Hubo un aumento del 30% en las muertes por accidentes en el primer trimestre de 2019.
 •	🚑 El número de peatones y ciclistas heridos no mejoró.
